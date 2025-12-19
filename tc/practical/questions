@@ -1,0 +1,22 @@
+Write a C program to find area and circumference of a circle (use symbolic constant).
+Write a C program to find maximum and minimum among three numbers.
+Write a C program to verify whether the given number is odd or even?
+Write a C program to verify whether the given year is a leap year or not?
+Write a C program to find all possible roots of ax^2+bx+c=0.
+Write a C program to find the series of all prime numbers up to value 100.
+Write a C program to find the factorial of an integer.
+Write a C program to check whether the given number is an Armstrong number or not?
+Write a C program to find GCD of two integers.
+Write a C program that takes an integer as input and display it in reverse order.
+Write a C program to display all elements of an array and also calculate sum of elements of that array.
+Write a C program to search an element from a linear array.
+Write a C program to find sum of two matrices of size 3x3.
+Write a C program to exchange the value of two variables (X, Y) using pointer.
+Write a C program to perform all basic string handling operations.
+Write a C program to determine whether a string is palindrome or not.
+Write a C program to print n Fibonacci numbers using iterative approach.
+
+
+Write a C program to perform bubble sort on 10 integer numbers in an ascending order.
+Write a C program to record student's information according to their merit position.
+Write a C program to read data from keyboard, write it to a file called INPUT.txt. Again open the same file to read the same data from the file and display it to the terminal.
